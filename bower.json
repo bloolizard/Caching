@@ -1,0 +1,19 @@
+{
+  "name": "WebCaching",
+  "main": "WebCaching.js",
+  "version": "0.0.0",
+  "authors": [
+    "Edwin Villanueva <edwincv0@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "~2.1.3"
+  }
+}
